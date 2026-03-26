@@ -819,8 +819,8 @@ def display_top_blocked_ips(db_path='sessions.db'):
 # ═══════════════════════════════════════════════════════════════════
 
 def run_demo_mode():
-    """Run automated demo mode for SIH presentation"""
-    st.markdown("### <i class='fas fa-play-circle icon'></i> Demo Mode - SIH Presentation", unsafe_allow_html=True)
+    """Run automated demo mode for India Innovates presentation"""
+    st.markdown("### <i class='fas fa-play-circle icon'></i> Demo Mode - India Innovates Presentation", unsafe_allow_html=True)
     
     demo_col1, demo_col2 = st.columns(2)
     
