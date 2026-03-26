@@ -1,0 +1,44 @@
+[
+    {
+        "value": "8.8.8.8",
+        "classification": "CLEAN",
+        "confidence": "LOW",
+        "final_score": 0,
+        "type": "ip"
+    },
+    {
+        "value": "http://example.com",
+        "classification": "CLEAN",
+        "confidence": "LOW",
+        "final_score": 0,
+        "type": "url"
+    },
+    {
+        "value": "example.org",
+        "classification": "CLEAN",
+        "confidence": "LOW",
+        "final_score": 0,
+        "type": "domain"
+    },
+    {
+        "value": "44d88612fea8a8f36de82e1278abb02f",
+        "classification": "MALICIOUS",
+        "confidence": "HIGH",
+        "final_score": 4550,
+        "type": "ja3"
+    },
+    {
+        "value": "72a589da586844d686d1521425f8ca4a   # JA3 (sample)",
+        "classification": "UNKNOWN",
+        "final_score": 0,
+        "confidence": "LOW",
+        "type": "unknown"
+    },
+    {
+        "value": "b39f018b4ad7c18b5fbd25031a3a5e60   # JA3S (sample)",
+        "classification": "UNKNOWN",
+        "final_score": 0,
+        "confidence": "LOW",
+        "type": "unknown"
+    }
+]

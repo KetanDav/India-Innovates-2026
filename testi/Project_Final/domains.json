@@ -1,0 +1,9 @@
+[
+    {
+        "value": "example.org",
+        "classification": "CLEAN",
+        "confidence": "LOW",
+        "final_score": 0,
+        "type": "domain"
+    }
+]

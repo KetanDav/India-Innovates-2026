@@ -1,0 +1,9 @@
+[
+    {
+        "value": "8.8.8.8",
+        "classification": "CLEAN",
+        "confidence": "LOW",
+        "final_score": 0,
+        "type": "ip"
+    }
+]

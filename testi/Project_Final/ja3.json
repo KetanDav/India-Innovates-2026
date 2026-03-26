@@ -1,0 +1,9 @@
+[
+    {
+        "value": "44d88612fea8a8f36de82e1278abb02f",
+        "classification": "MALICIOUS",
+        "confidence": "HIGH",
+        "final_score": 4550,
+        "type": "ja3"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "value": "http://example.com",
+        "classification": "CLEAN",
+        "confidence": "LOW",
+        "final_score": 0,
+        "type": "url"
+    }
+]

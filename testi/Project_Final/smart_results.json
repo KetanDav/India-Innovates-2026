@@ -1,0 +1,20 @@
+[
+    {
+        "classification": "CLEAN",
+        "confidence": "LOW",
+        "final_score": 0,
+        "value": "8.8.8.8"
+    },
+    {
+        "classification": "CLEAN",
+        "confidence": "LOW",
+        "final_score": 0,
+        "value": "http://example.com"
+    },
+    {
+        "classification": "SUSPICIOUS",
+        "confidence": "MEDIUM",
+        "final_score": 50,
+        "value": "44d88612fea8a8f36de82e1278abb02f"
+    }
+]
